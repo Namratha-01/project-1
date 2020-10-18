@@ -46,7 +46,7 @@
 {
     width: 100%;
 }
-.carousel-caption
+.carousel-item
 {
     top: 50%;
     transform: translateY(-50%);
