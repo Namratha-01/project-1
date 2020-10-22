@@ -5,9 +5,10 @@
 }
 #nav-bar
 {
-    position: sticky
-    top: 0;
-    z- index: 10;
+    overflow: hidden;
+  position: sticky 
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%;
 }
 .navbar-brand img
 {
@@ -46,11 +47,11 @@
 {
     width: 100%;
 }
-.carousel-item
+.carousel-caption
 {
-    top: 50%;
-    transform: translateY(-50%);
-    bottom: intitial!important;
+   top:50%;
+  transform: translateY(-50%);
+  bottom: intitial!important;
 }
 .carousel-caption
 {
