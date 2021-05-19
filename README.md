@@ -1,2 +1,2 @@
 # project-1
-E course website
+Courselite- E-course website
